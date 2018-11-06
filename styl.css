@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(27, 115, 173);
+    margin:0;
+}
+nav{
+    text-align: center;
+position: fixed;
+left: 0;
+height: 100%;
+width:15%;
+background-color: rgba(56, 148, 155, 0.4);
+color: white;
+text-align: center;
+border-right: solid;
+}
